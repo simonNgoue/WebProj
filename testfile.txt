@@ -1,7 +1,3 @@
 This is a new test file.
-<<<<<<< HEAD
 This is an update test.
 This is an second updated test :)
-=======
-This is an update test.
->>>>>>> 54870f02004835f119835da0c0187802cbf14c8c
