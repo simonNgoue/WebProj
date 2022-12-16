@@ -1,0 +1,8 @@
+[] Creating multiple pages in HTML: https://learn.coderslang.com/0110-how-to-create-multiple-pages-in-html/
+    [] home.html
+    [] about.html
+    [] contact.html
+    [] location.html
+    [] project.html
+[] Add browser tab icon: https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website
+[] Create image gallery: https://www.youtube.com/watch?v=C1B1Fx3XKOg
